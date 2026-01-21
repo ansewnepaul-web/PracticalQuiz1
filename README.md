@@ -1,7 +1,3 @@
-please make response to phone as well not only desktop
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
